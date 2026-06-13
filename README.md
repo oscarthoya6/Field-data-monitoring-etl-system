@@ -53,6 +53,14 @@ Generates basic KPIs (optional)
 
 Pushes processed data into Google Sheets for live monitoring.
 
+# Live Monitoring Dashboard
+
+The pipeline outputs cleaned field data into a live Google Sheet:
+
+https://docs.google.com/spreadsheets/d/1WWn-Ah5YzLmSmJMT1ObtBoLT-vRYQ7aOZrAYJCPNEtw/edit?usp=sharing
+
+This acts as the real-time monitoring dashboard for field data collection.
+
 # Output Use Case
 
 The final Google Sheet acts as a live dashboard for field data, enabling:
